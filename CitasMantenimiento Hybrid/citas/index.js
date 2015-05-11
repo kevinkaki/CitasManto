@@ -6,6 +6,7 @@ app.citas = kendo.observable({
 (function(parent) {
     var citasModel = kendo.observable({
         fields: {
+            sucursal: '',
             kms: '',
             placa: '',
             date: '',

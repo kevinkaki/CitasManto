@@ -6,7 +6,9 @@
     "cleanup": [
       "./data/defaultProvider.js",
       "./home",
-      "./citas"
+      "./citas",
+      "./notificaciones",
+      "./data/citasMantenimientoBackend.js"
     ]
   }
 }
