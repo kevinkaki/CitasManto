@@ -8,7 +8,8 @@
       "./home",
       "./citas",
       "./notificaciones",
-      "./data/citasMantenimientoBackend.js"
+      "./data/citasMantenimientoBackend.js",
+      "./historial"
     ]
   }
 }

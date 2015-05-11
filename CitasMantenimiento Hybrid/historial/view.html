@@ -1,0 +1,11 @@
+<div data-role="view" data-title="Historial" data-layout="main" data-model="app.historial" data-show="app.historial.onShow">
+
+    <ul data-role="listview" data-style="inset" data-template="historialModelTemplate" data-bind="{ source: historialModel.dataSource}" data-pull-to-refresh="false" data-endless-scroll="false">
+    </ul>
+    <script type="text/x-kendo-template" id="historialModelTemplate">
+        <div class="image-with-text">
+            <h3>#: data.Apellido #</h3>
+
+        </div>
+    </script>
+</div>

@@ -71,6 +71,25 @@
         }
       ],
       "icon": "sounds"
+    },
+    {
+      "type": "view",
+      "name": "historial",
+      "title": "Historial",
+      "addToNavigation": true,
+      "components": [
+        {
+          "type": "list",
+          "name": "historialModel",
+          "dataProvider": "citasMantenimientoBackend",
+          "masterDetails": false,
+          "pullToRefresh": false,
+          "endlessScroll": false,
+          "collection": "Usuarios",
+          "headerField": "Apellido"
+        }
+      ],
+      "icon": "favorites"
     }
   ],
   "view": "home",
