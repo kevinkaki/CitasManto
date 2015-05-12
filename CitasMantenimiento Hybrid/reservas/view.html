@@ -1,0 +1,11 @@
+<div data-role="view" data-title="Reservas" data-layout="main" data-model="app.reservas" data-show="app.reservas.onShow">
+
+    <ul data-role="listview" data-style="inset" data-template="reservasModelTemplate" data-bind="{ source: reservasModel.dataSource}" data-pull-to-refresh="false" data-endless-scroll="false">
+    </ul>
+    <script type="text/x-kendo-template" id="reservasModelTemplate">
+        <div class="image-with-text">
+            <h3>#: data.Usuario #</h3>
+
+        </div>
+    </script>
+</div>

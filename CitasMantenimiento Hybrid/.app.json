@@ -134,6 +134,25 @@
         }
       ],
       "icon": "contacts"
+    },
+    {
+      "type": "view",
+      "name": "reservas",
+      "title": "Reservas",
+      "addToNavigation": true,
+      "components": [
+        {
+          "type": "list",
+          "name": "reservasModel",
+          "dataProvider": "citasMantenimientoBackend",
+          "masterDetails": false,
+          "pullToRefresh": false,
+          "endlessScroll": false,
+          "collection": "Reservas",
+          "headerField": "Usuario"
+        }
+      ],
+      "icon": "settings"
     }
   ],
   "view": "home",

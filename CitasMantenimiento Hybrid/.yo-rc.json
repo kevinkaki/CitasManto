@@ -11,7 +11,8 @@
       "./data/citasMantenimientoBackend.js",
       "./historial",
       "./registerView",
-      "./signInView"
+      "./signInView",
+      "./reservas"
     ]
   }
 }
