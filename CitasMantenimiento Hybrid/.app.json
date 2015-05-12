@@ -129,6 +129,27 @@
         }
       ],
       "icon": "favorites"
+    },
+    {
+      "type": "view",
+      "name": "signInView",
+      "title": "Sign In",
+      "addToNavigation": true,
+      "components": [
+        {
+          "type": "signin",
+          "name": "signInViewModel",
+          "dataProvider": "defaultProvider",
+          "usernameLabel": "Username",
+          "passwordLabel": "Password",
+          "confirmLabel": "Sign In",
+          "signinRedirect": "home",
+          "navigateToSignup": false,
+          "usernamePlaceholder": "",
+          "passwordPlaceholder": ""
+        }
+      ],
+      "icon": "contacts"
     }
   ],
   "view": "home",

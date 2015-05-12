@@ -2382,3 +2382,312 @@
 {"level":"info","message":"GET /screenbuilder/Mist/MobileSimulator/WRqJ_2bcqe52s-N3WiuQ10974eKSXCelHnrQAbtUIQMOI3xUkYTR0MLMs0F81IM4rd3HJfq6nPLRvucOdKn8Z1QmfvzjYxgUXWOMElTl-7IG7r_F9iscGS5IUMXJWi7p/iOS_Phone/MobileWebsite/data/defaultProvider.js 200 5.722 ms - 442\n","timestamp":"2015-05-12T22:03:16.215Z"}
 {"level":"info","message":"GET /screenbuilder/Mist/MobileSimulator/WRqJ_2bcqe52s-N3WiuQ10974eKSXCelHnrQAbtUIQMOI3xUkYTR0MLMs0F81IM4rd3HJfq6nPLRvucOdKn8Z1QmfvzjYxgUXWOMElTl-7IG7r_F9iscGS5IUMXJWi7p/iOS_Phone/MobileWebsite/home/index.js 200 5.366 ms - 74\n","timestamp":"2015-05-12T22:03:16.237Z"}
 {"level":"info","message":"PUT /screenbuilder/api/view/Field%20Management/Field%20Management 201 1455.886 ms - -\n","timestamp":"2015-05-12T22:03:16.773Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a3/3093f873db2/Photo Album Code/2a3798f2d82e/app","timestamp":"2015-05-12T22:03:35.437Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:03:35.437Z"}
+{"level":"debug","message":"Share is: a3","timestamp":"2015-05-12T22:03:35.437Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a3/3093f873db2/Photo Album Code/2a3798f2d82e/app","timestamp":"2015-05-12T22:03:35.437Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:03:35.453Z"}
+{"level":"info","message":"POST /screenbuilder/api/compatible/ 200 964.429 ms - 86\n","timestamp":"2015-05-12T22:03:35.456Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a7/0e2f50b8797/CitasMantenimiento Hybrid/c33a8fb54e72/CitasMantenimiento Hybrid","timestamp":"2015-05-12T22:03:59.801Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:03:59.801Z"}
+{"level":"debug","message":"Share is: a7","timestamp":"2015-05-12T22:03:59.801Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a7/0e2f50b8797/CitasMantenimiento Hybrid/c33a8fb54e72/CitasMantenimiento Hybrid","timestamp":"2015-05-12T22:03:59.801Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:03:59.806Z"}
+{"level":"info","message":"POST /screenbuilder/api/compatible/ 200 532.862 ms - 133\n","timestamp":"2015-05-12T22:03:59.823Z"}
+{"level":"info","message":"GET /screenbuilder/Mist/MobileSimulator/WRqJ_2bcqe52s-N3WiuQ10974eKSXCelHnrQAbtUIQMOI3xUkYTR0MLMs0F81IM4rd3HJfq6nPLRvucOdKn8Z1QmfvzjYxgUXWOMElTl-7IG7r_F9iscGS5IUMXJWi7p/Windows_Phone/MobileWebsite/index.html 200 8.673 ms - 2029\n","timestamp":"2015-05-12T22:04:00.167Z"}
+{"level":"info","message":"GET /screenbuilder/Mist/MobileSimulator/WRqJ_2bcqe52s-N3WiuQ10974eKSXCelHnrQAbtUIQMOI3xUkYTR0MLMs0F81IM4rd3HJfq6nPLRvucOdKn8Z1QmfvzjYxgUXWOMElTl-7IG7r_F9iscGS5IUMXJWi7p/Windows_Phone/MobileWebsite/cordova.js 404 3.338 ms - -\n","timestamp":"2015-05-12T22:04:00.212Z"}
+{"level":"info","message":"GET /screenbuilder/Mist/MobileSimulator/WRqJ_2bcqe52s-N3WiuQ10974eKSXCelHnrQAbtUIQMOI3xUkYTR0MLMs0F81IM4rd3HJfq6nPLRvucOdKn8Z1QmfvzjYxgUXWOMElTl-7IG7r_F9iscGS5IUMXJWi7p/Windows_Phone/MobileWebsite/bower_components/kendo-ui-appbuilder-core/js/jquery.min.js 200 10.456 ms - 92629\n","timestamp":"2015-05-12T22:04:00.216Z"}
+{"level":"info","message":"GET /screenbuilder/Mist/MobileSimulator/WRqJ_2bcqe52s-N3WiuQ10974eKSXCelHnrQAbtUIQMOI3xUkYTR0MLMs0F81IM4rd3HJfq6nPLRvucOdKn8Z1QmfvzjYxgUXWOMElTl-7IG7r_F9iscGS5IUMXJWi7p/Windows_Phone/MobileWebsite/app.js 200 5.186 ms - 1266\n","timestamp":"2015-05-12T22:04:00.250Z"}
+{"level":"info","message":"GET /screenbuilder/Mist/MobileSimulator/WRqJ_2bcqe52s-N3WiuQ10974eKSXCelHnrQAbtUIQMOI3xUkYTR0MLMs0F81IM4rd3HJfq6nPLRvucOdKn8Z1QmfvzjYxgUXWOMElTl-7IG7r_F9iscGS5IUMXJWi7p/Windows_Phone/MobileWebsite/data/defaultProvider.js 200 8.050 ms - 442\n","timestamp":"2015-05-12T22:04:00.262Z"}
+{"level":"info","message":"GET /screenbuilder/Mist/MobileSimulator/WRqJ_2bcqe52s-N3WiuQ10974eKSXCelHnrQAbtUIQMOI3xUkYTR0MLMs0F81IM4rd3HJfq6nPLRvucOdKn8Z1QmfvzjYxgUXWOMElTl-7IG7r_F9iscGS5IUMXJWi7p/Windows_Phone/MobileWebsite/bower_components/kendo-ui-appbuilder-core/styles/images/kendoui.woff?v=1.1 200 7.786 ms - 64184\n","timestamp":"2015-05-12T22:04:00.453Z"}
+{"level":"info","message":"GET /screenbuilder/Mist/MobileSimulator/WRqJ_2bcqe52s-N3WiuQ10974eKSXCelHnrQAbtUIQMOI3xUkYTR0MLMs0F81IM4rd3HJfq6nPLRvucOdKn8Z1QmfvzjYxgUXWOMElTl-7IG7r_F9iscGS5IUMXJWi7p/Windows_Phone/MobileWebsite/bower_components/kendo-ui-appbuilder-core/styles/images/wp8_icons.png 200 11.304 ms - 18651\n","timestamp":"2015-05-12T22:04:02.831Z"}
+{"level":"info","message":"GET /screenbuilder/Mist/MobileSimulator/WRqJ_2bcqe52s-N3WiuQ10974eKSXCelHnrQAbtUIQMOI3xUkYTR0MLMs0F81IM4rd3HJfq6nPLRvucOdKn8Z1QmfvzjYxgUXWOMElTl-7IG7r_F9iscGS5IUMXJWi7p/iOS_Phone/MobileWebsite/index.html 304 8.509 ms - -\n","timestamp":"2015-05-12T22:04:11.030Z"}
+{"level":"info","message":"GET /screenbuilder/Mist/MobileSimulator/WRqJ_2bcqe52s-N3WiuQ10974eKSXCelHnrQAbtUIQMOI3xUkYTR0MLMs0F81IM4rd3HJfq6nPLRvucOdKn8Z1QmfvzjYxgUXWOMElTl-7IG7r_F9iscGS5IUMXJWi7p/iOS_Phone/MobileWebsite/bower_components/kendo-ui-appbuilder-core/js/kendo.mobile.min.js 304 4.966 ms - -\n","timestamp":"2015-05-12T22:04:11.075Z"}
+{"level":"info","message":"GET /screenbuilder/Mist/MobileSimulator/WRqJ_2bcqe52s-N3WiuQ10974eKSXCelHnrQAbtUIQMOI3xUkYTR0MLMs0F81IM4rd3HJfq6nPLRvucOdKn8Z1QmfvzjYxgUXWOMElTl-7IG7r_F9iscGS5IUMXJWi7p/iOS_Phone/MobileWebsite/styles/main.css 304 5.005 ms - -\n","timestamp":"2015-05-12T22:04:11.078Z"}
+{"level":"info","message":"GET /screenbuilder/Mist/MobileSimulator/WRqJ_2bcqe52s-N3WiuQ10974eKSXCelHnrQAbtUIQMOI3xUkYTR0MLMs0F81IM4rd3HJfq6nPLRvucOdKn8Z1QmfvzjYxgUXWOMElTl-7IG7r_F9iscGS5IUMXJWi7p/iOS_Phone/MobileWebsite/data/defaultProvider.js 304 4.025 ms - -\n","timestamp":"2015-05-12T22:04:11.112Z"}
+{"level":"info","message":"GET /screenbuilder/Mist/MobileSimulator/WRqJ_2bcqe52s-N3WiuQ10974eKSXCelHnrQAbtUIQMOI3xUkYTR0MLMs0F81IM4rd3HJfq6nPLRvucOdKn8Z1QmfvzjYxgUXWOMElTl-7IG7r_F9iscGS5IUMXJWi7p/iOS_Phone/MobileWebsite/bower_components/kendo-ui-appbuilder-core/styles/images/kendoui.woff?v=1.1 304 8.247 ms - -\n","timestamp":"2015-05-12T22:04:11.264Z"}
+{"level":"debug","message":"Project path is: //ab-storage/ae/d2ebcdbd737/Field Management/48e7ca152650/Field Management","timestamp":"2015-05-12T22:05:25.126Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:05:25.126Z"}
+{"level":"debug","message":"Share is: ae","timestamp":"2015-05-12T22:05:25.126Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/ae/d2ebcdbd737/Field Management/48e7ca152650/Field Management","timestamp":"2015-05-12T22:05:25.126Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:05:25.132Z"}
+{"level":"info","message":"POST /screenbuilder/api/compatible/ 200 482.180 ms - 133\n","timestamp":"2015-05-12T22:05:25.146Z"}
+{"level":"debug","message":"Project path is: //ab-storage/ae/d2ebcdbd737/Field Management/48e7ca152650/Field Management","timestamp":"2015-05-12T22:06:41.407Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:06:41.407Z"}
+{"level":"debug","message":"Share is: ae","timestamp":"2015-05-12T22:06:41.407Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/ae/d2ebcdbd737/Field Management/48e7ca152650/Field Management","timestamp":"2015-05-12T22:06:41.408Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:06:41.412Z"}
+{"level":"info","message":"POST /screenbuilder/api/compatible/ 200 142.033 ms - 133\n","timestamp":"2015-05-12T22:06:41.426Z"}
+{"level":"info","message":"GET /screenbuilder/project/9ead2734-2d02-4ed9-ba8f-536d8c5e2c58/views 200 2.407 ms - 12281\n","timestamp":"2015-05-12T22:06:43.200Z"}
+{"level":"warn","message":"Request: {\"protocol\":\"https:\",\"slashes\":true,\"auth\":null,\"host\":\"platform.telerik.com\",\"port\":null,\"hostname\":\"platform.telerik.com\",\"hash\":null,\"search\":null,\"query\":null,\"pathname\":\"/appbuilder/api/internal/projects/AppBuilder/%s/path\",\"path\":\"/appbuilder/api/internal/projects/AppBuilder/%s/path\",\"href\":\"https://platform.telerik.com/appbuilder/api/internal/projects/AppBuilder/%s/path\",\"headers\":{\"x-icenium-solutionspace\":\"6d8f4ce0-17ff-46c0-86a9-20ef185aa630\",\"Content-Type\":\"application/json\",\"cookie\":\"state=b7GBQSggiPb3edSJhaJg5i8eNurj4QRvLW657ZJMMsFoiw7MARSduZ12RdZ9RcP5rsa4o8OxF1Vr8uzTideoMqHAbUkTEc6M78YEZKzK46bUton2U2m6Qh1V%2Bf9rur9cWdkWqBCRPQwytvHDTS0BJ3h1QPrypqrzoovQNmP9uhNLNE37hJsxvDgTbElrWiR3; optimizelySegments=%7B%222325621325%22%3A%22direct%22%2C%222335711366%22%3A%22gc%22%2C%222372151524%22%3A%22none%22%2C%222375811128%22%3A%22false%22%7D; optimizelyEndUserId=oeu1431468384579r0.3083991843741387; optimizelyBuckets=%7B%7D; gauuid=5653b1a8-c5d8-4848-ac1b-6f99dd89396d; _dc_gtm_UA-111455-1=1; _dc_gtm_UA-111455-21=1; optimizelyPendingLogEvents=%5B%5D; lgn_trk=%7B%22page%22%3A%22%2Flogin%2Fv2%2Fplatform%22%2C%22action%22%3A%22login%22%2C%22provider%22%3A%22telerik%22%7D; brdg=59rK/WM1rG0AZ6MiSfF49/KeyII664yZaor3BdRm5foyLREgF5q9eQ68gea3oU6AEqnFtEW+ujhGbLE6SwNfvnsD4SMfDZFQ4tBUfaDeoaSTkiK4M8ddImil3KZ0hGx7M5hKUaEzYArET+5yyRPHp7LonA/1WV3A4is9kinKDn+gBSWiItKwIhvUeOviTk1sU08YeqwX3lJm88NSCGIHQ70EEAEe4TVdcfB74M9cHBJCmmRbA9RGneXMGnJA+j83PYSIzoLvuRbNDQNucDDZKw==; tlrkappshell=AUMzqc3a%2B3tEXIlYNgMUunKlp3b6EECpyOwSRXX83rv7xPt%2FEKyijIokItjIk0cOm0YMGuKOySykko1CiVh2MYV8Z6OnUVftjmhf1oSolZhn6CksLLuQissaYkGMuxaoodz2bt41TIWuv9YcuQdUbg%3D%3D; tlrk=AUMzqc3a%2B3tEXIlYNgMUunKlp3b6EECpyOwSRXX83rv7xPt%2FEKyijIokItjIk0cOm0YMGuKOySykko1CiVh2MYV8Z6OnUVftjmhf1oSolZhn6CksLLuQissaYkGMuxaoodz2bt41TIWuv9YcuQdUbg%3D%3D; _mkto_trk=id:194-TGP-611&token:_mch-telerik.com-1431468384665-47049; __eqtSession=ce4e79fb-fc2d-4b94-b805-0c1084603cfd.1431468397798; __eqtUser=7664785c-48cf-4619-a394-376513f9eb54.1; _ga=GA1.3.269270438.1431468385; _ga=GA1.2.269270438.1431468385; platform_usercontext=%7B%22userId%22%3A%22bb8a54d3-0aa9-4c66-8720-8081f5780489%22%2C%22accountId%22%3A%226d8f4ce0-17ff-46c0-86a9-20ef185aa630%22%7D\"},\"method\":\"get\"} \r\n\r\n\r\n failed with code 400 \r\n\r\n. Response was: <html>\r\n<head><title>400 Bad Request</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>400 Bad Request</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n","timestamp":"2015-05-12T22:06:43.245Z"}
+{"processId":29953,"message":"","status":503,"stackTrace":null,"metadata":{},"level":"error","timestamp":"2015-05-12T22:06:43.245Z"}
+{"level":"warn","message":"failed to get project 9f6b2a1c-5f1f-42b5-bb5f-03447cbd7177: Service Unavailable","timestamp":"2015-05-12T22:06:43.245Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a6/d8f4ce017ff/AB1/bb8a54d30aa9/AB1","timestamp":"2015-05-12T22:06:43.505Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:06:43.506Z"}
+{"level":"debug","message":"Share is: a6","timestamp":"2015-05-12T22:06:43.506Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a6/d8f4ce017ff/AB1/bb8a54d30aa9/AB1","timestamp":"2015-05-12T22:06:43.506Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:06:43.511Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a6/d8f4ce017ff/AB2/bb8a54d30aa9/AB2","timestamp":"2015-05-12T22:06:43.796Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:06:43.796Z"}
+{"level":"debug","message":"Share is: a6","timestamp":"2015-05-12T22:06:43.797Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a6/d8f4ce017ff/AB2/bb8a54d30aa9/AB2","timestamp":"2015-05-12T22:06:43.797Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:06:43.801Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a6/d8f4ce017ff/AB3/bb8a54d30aa9/AB3","timestamp":"2015-05-12T22:06:44.058Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:06:44.059Z"}
+{"level":"debug","message":"Share is: a6","timestamp":"2015-05-12T22:06:44.059Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a6/d8f4ce017ff/AB3/bb8a54d30aa9/AB3","timestamp":"2015-05-12T22:06:44.059Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:06:44.064Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a6/d8f4ce017ff/AB4/bb8a54d30aa9/AB4","timestamp":"2015-05-12T22:06:44.357Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:06:44.358Z"}
+{"level":"debug","message":"Share is: a6","timestamp":"2015-05-12T22:06:44.358Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a6/d8f4ce017ff/AB4/bb8a54d30aa9/AB4","timestamp":"2015-05-12T22:06:44.358Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:06:44.363Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a6/d8f4ce017ff/AB5/bb8a54d30aa9/AB5","timestamp":"2015-05-12T22:06:44.625Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:06:44.625Z"}
+{"level":"debug","message":"Share is: a6","timestamp":"2015-05-12T22:06:44.625Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a6/d8f4ce017ff/AB5/bb8a54d30aa9/AB5","timestamp":"2015-05-12T22:06:44.625Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:06:44.631Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a6/d8f4ce017ff/AB6/bb8a54d30aa9/AB6","timestamp":"2015-05-12T22:06:44.880Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:06:44.881Z"}
+{"level":"debug","message":"Share is: a6","timestamp":"2015-05-12T22:06:44.881Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a6/d8f4ce017ff/AB6/bb8a54d30aa9/AB6","timestamp":"2015-05-12T22:06:44.881Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:06:44.885Z"}
+{"level":"info","message":"GET /screenbuilder/api/simulator/url/Field%20Management/Field%20Management 304 28.600 ms - -\n","timestamp":"2015-05-12T22:06:44.927Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a6/d8f4ce017ff/AB7/bb8a54d30aa9/AB7","timestamp":"2015-05-12T22:06:45.146Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:06:45.147Z"}
+{"level":"debug","message":"Share is: a6","timestamp":"2015-05-12T22:06:45.147Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a6/d8f4ce017ff/AB7/bb8a54d30aa9/AB7","timestamp":"2015-05-12T22:06:45.147Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:06:45.151Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a6/d8f4ce017ff/AB8/bb8a54d30aa9/AB8","timestamp":"2015-05-12T22:06:45.425Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:06:45.426Z"}
+{"level":"debug","message":"Share is: a6","timestamp":"2015-05-12T22:06:45.426Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a6/d8f4ce017ff/AB8/bb8a54d30aa9/AB8","timestamp":"2015-05-12T22:06:45.426Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:06:45.430Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a6/d8f4ce017ff/AB9/bb8a54d30aa9/AB9","timestamp":"2015-05-12T22:06:45.726Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:06:45.726Z"}
+{"level":"debug","message":"Share is: a6","timestamp":"2015-05-12T22:06:45.726Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a6/d8f4ce017ff/AB9/bb8a54d30aa9/AB9","timestamp":"2015-05-12T22:06:45.726Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:06:45.737Z"}
+{"level":"info","message":"POST /screenbuilder/api/compatible/ 200 3432.952 ms - 879\n","timestamp":"2015-05-12T22:06:45.741Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a9/581a2fd9424/FASTPORT/9e14f9b3894f/FASTPORTWeb","timestamp":"2015-05-12T22:07:18.755Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:07:18.755Z"}
+{"level":"debug","message":"Share is: a9","timestamp":"2015-05-12T22:07:18.755Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a9/581a2fd9424/FASTPORT/9e14f9b3894f/FASTPORTWeb","timestamp":"2015-05-12T22:07:18.756Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:07:18.767Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a9/581a2fd9424/TruckingTrack/9e14f9b3894f/TruckingTrack","timestamp":"2015-05-12T22:07:19.363Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:07:19.364Z"}
+{"level":"debug","message":"Share is: a9","timestamp":"2015-05-12T22:07:19.364Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a9/581a2fd9424/TruckingTrack/9e14f9b3894f/TruckingTrack","timestamp":"2015-05-12T22:07:19.364Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:07:19.368Z"}
+{"level":"info","message":"POST /screenbuilder/api/compatible/ 200 1750.935 ms - 171\n","timestamp":"2015-05-12T22:07:19.371Z"}
+{"level":"warn","message":"Request: {\"protocol\":\"https:\",\"slashes\":true,\"auth\":null,\"host\":\"platform.telerik.com\",\"port\":null,\"hostname\":\"platform.telerik.com\",\"hash\":null,\"search\":null,\"query\":null,\"pathname\":\"/appbuilder/api/internal/projects/AppBuilder/%s/path\",\"path\":\"/appbuilder/api/internal/projects/AppBuilder/%s/path\",\"href\":\"https://platform.telerik.com/appbuilder/api/internal/projects/AppBuilder/%s/path\",\"headers\":{\"x-icenium-solutionspace\":\"6d8f4ce0-17ff-46c0-86a9-20ef185aa630\",\"Content-Type\":\"application/json\",\"cookie\":\"state=GM5k6Xh0kXXwFHBsr5o7vwzt9GW4Daf596XOa3%2B2ExVX%2Bf2E4WfPoQ9fRUrO8jyYEqWjJ0htwvAeTRipW7ZJX4v6OM4rEJhjixl6hIBHMQSmbiHuN4aGzPmH33JW4AX9MY9I8hnRlabsqozJRVw3hk9d0pq3YfEbkyknVgXT58mB8cIU%2Bu%2FDEOjfsD3Ijyw0; optimizelySegments=%7B%222325621325%22%3A%22direct%22%2C%222335711366%22%3A%22gc%22%2C%222372151524%22%3A%22none%22%2C%222375811128%22%3A%22false%22%7D; optimizelyEndUserId=oeu1431468438774r0.381622509798035; optimizelyBuckets=%7B%7D; gauuid=7b267b66-bc37-42b6-bba8-e848b5a3e34c; _dc_gtm_UA-111455-1=1; _dc_gtm_UA-111455-21=1; optimizelyPendingLogEvents=%5B%5D; lgn_trk=%7B%22page%22%3A%22%2Flogin%2Fv2%2Fplatform%22%2C%22action%22%3A%22login%22%2C%22provider%22%3A%22telerik%22%7D; brdg=59rK/WM1rG0AZ6MiSfF49/KeyII664yZaor3BdRm5foyLREgF5q9eQ68gea3oU6AEqnFtEW+ujhGbLE6SwNfvnsD4SMfDZFQ4tBUfaDeoaSTkiK4M8ddImil3KZ0hGx7M5hKUaEzYArET+5yyRPHp7LonA/1WV3A4is9kinKDn+gBSWiItKwIhvUeOviTk1sU08YeqwX3lJm88NSCGIHQ70EEAEe4TVdcfB74M9cHBJbJ+qJXiF7/Ci4X9mLOIbPb3vZXttXjyVDGYOK982NFg==; tlrkappshell=%2BElWcz4yOcX7Bt9BH8olZ%2B8%2ByqBu0NyY2uxGcKkAehJtIiCHgUm08R0xm25j6T7gBU%2BW%2FWQhzgC3KW%2FuoN8K0he8mD6Q%2BGlgI81nYBxfvi8Uw0AdiX2Aw5vefKK%2Bbw1qFwaSVG%2FGvCKpJ8d7dUR9Vw%3D%3D; tlrk=%2BElWcz4yOcX7Bt9BH8olZ%2B8%2ByqBu0NyY2uxGcKkAehJtIiCHgUm08R0xm25j6T7gBU%2BW%2FWQhzgC3KW%2FuoN8K0he8mD6Q%2BGlgI81nYBxfvi8Uw0AdiX2Aw5vefKK%2Bbw1qFwaSVG%2FGvCKpJ8d7dUR9Vw%3D%3D; _mkto_trk=id:194-TGP-611&token:_mch-telerik.com-1431468438835-83539; __eqtSession=b6833b26-436d-44a9-8b6e-da365828cf4e.1431468450824; __eqtUser=194a207d-2136-4bc5-ab89-204c66463fa0.1; _ga=GA1.3.1466765885.1431468439; _ga=GA1.2.1466765885.1431468439; platform_usercontext=%7B%22userId%22%3A%22bb8a54d3-0aa9-4c66-8720-8081f5780489%22%2C%22accountId%22%3A%226d8f4ce0-17ff-46c0-86a9-20ef185aa630%22%7D\"},\"method\":\"get\"} \r\n\r\n\r\n failed with code 400 \r\n\r\n. Response was: <html>\r\n<head><title>400 Bad Request</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>400 Bad Request</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n","timestamp":"2015-05-12T22:07:35.493Z"}
+{"processId":29953,"message":"","status":503,"stackTrace":null,"metadata":{},"level":"error","timestamp":"2015-05-12T22:07:35.493Z"}
+{"level":"warn","message":"failed to get project 9f6b2a1c-5f1f-42b5-bb5f-03447cbd7177: Service Unavailable","timestamp":"2015-05-12T22:07:35.493Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a6/d8f4ce017ff/AB1/bb8a54d30aa9/AB1","timestamp":"2015-05-12T22:07:35.640Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:07:35.640Z"}
+{"level":"debug","message":"Share is: a6","timestamp":"2015-05-12T22:07:35.640Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a6/d8f4ce017ff/AB1/bb8a54d30aa9/AB1","timestamp":"2015-05-12T22:07:35.640Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:07:35.649Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a6/d8f4ce017ff/AB2/bb8a54d30aa9/AB2","timestamp":"2015-05-12T22:07:35.803Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:07:35.803Z"}
+{"level":"debug","message":"Share is: a6","timestamp":"2015-05-12T22:07:35.803Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a6/d8f4ce017ff/AB2/bb8a54d30aa9/AB2","timestamp":"2015-05-12T22:07:35.803Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:07:35.807Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a6/d8f4ce017ff/AB3/bb8a54d30aa9/AB3","timestamp":"2015-05-12T22:07:35.953Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:07:35.953Z"}
+{"level":"debug","message":"Share is: a6","timestamp":"2015-05-12T22:07:35.953Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a6/d8f4ce017ff/AB3/bb8a54d30aa9/AB3","timestamp":"2015-05-12T22:07:35.953Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:07:35.959Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a6/d8f4ce017ff/AB4/bb8a54d30aa9/AB4","timestamp":"2015-05-12T22:07:36.098Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:07:36.098Z"}
+{"level":"debug","message":"Share is: a6","timestamp":"2015-05-12T22:07:36.098Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a6/d8f4ce017ff/AB4/bb8a54d30aa9/AB4","timestamp":"2015-05-12T22:07:36.098Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:07:36.102Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a6/d8f4ce017ff/AB5/bb8a54d30aa9/AB5","timestamp":"2015-05-12T22:07:36.235Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:07:36.235Z"}
+{"level":"debug","message":"Share is: a6","timestamp":"2015-05-12T22:07:36.235Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a6/d8f4ce017ff/AB5/bb8a54d30aa9/AB5","timestamp":"2015-05-12T22:07:36.235Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:07:36.239Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a6/d8f4ce017ff/AB6/bb8a54d30aa9/AB6","timestamp":"2015-05-12T22:07:36.379Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:07:36.380Z"}
+{"level":"debug","message":"Share is: a6","timestamp":"2015-05-12T22:07:36.380Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a6/d8f4ce017ff/AB6/bb8a54d30aa9/AB6","timestamp":"2015-05-12T22:07:36.380Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:07:36.384Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a6/d8f4ce017ff/AB7/bb8a54d30aa9/AB7","timestamp":"2015-05-12T22:07:36.529Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:07:36.529Z"}
+{"level":"debug","message":"Share is: a6","timestamp":"2015-05-12T22:07:36.529Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a6/d8f4ce017ff/AB7/bb8a54d30aa9/AB7","timestamp":"2015-05-12T22:07:36.529Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:07:36.538Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a6/d8f4ce017ff/AB8/bb8a54d30aa9/AB8","timestamp":"2015-05-12T22:07:36.673Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:07:36.673Z"}
+{"level":"debug","message":"Share is: a6","timestamp":"2015-05-12T22:07:36.673Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a6/d8f4ce017ff/AB8/bb8a54d30aa9/AB8","timestamp":"2015-05-12T22:07:36.673Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:07:36.680Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a6/d8f4ce017ff/AB9/bb8a54d30aa9/AB9","timestamp":"2015-05-12T22:07:36.837Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:07:36.837Z"}
+{"level":"debug","message":"Share is: a6","timestamp":"2015-05-12T22:07:36.837Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a6/d8f4ce017ff/AB9/bb8a54d30aa9/AB9","timestamp":"2015-05-12T22:07:36.837Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:07:36.841Z"}
+{"level":"info","message":"POST /screenbuilder/api/compatible/ 200 2127.794 ms - 879\n","timestamp":"2015-05-12T22:07:36.849Z"}
+{"level":"warn","message":"Request: {\"protocol\":\"https:\",\"slashes\":true,\"auth\":null,\"host\":\"platform.telerik.com\",\"port\":null,\"hostname\":\"platform.telerik.com\",\"hash\":null,\"search\":null,\"query\":null,\"pathname\":\"/appbuilder/api/internal/projects/AppBuilder/%s/path\",\"path\":\"/appbuilder/api/internal/projects/AppBuilder/%s/path\",\"href\":\"https://platform.telerik.com/appbuilder/api/internal/projects/AppBuilder/%s/path\",\"headers\":{\"x-icenium-solutionspace\":\"6d8f4ce0-17ff-46c0-86a9-20ef185aa630\",\"Content-Type\":\"application/json\",\"cookie\":\"connect.sid=s%3AIdXgdDBuNHuNKmsAwBCCxbpoEBWuk729.tPuCG7M%2BGNnagR6szKG5xu4XIzPo10QXdJFeSwpO6zA; state=GM5k6Xh0kXXwFHBsr5o7vwzt9GW4Daf596XOa3%2B2ExVX%2Bf2E4WfPoQ9fRUrO8jyYEqWjJ0htwvAeTRipW7ZJX4v6OM4rEJhjixl6hIBHMQSmbiHuN4aGzPmH33JW4AX9MY9I8hnRlabsqozJRVw3hk9d0pq3YfEbkyknVgXT58mB8cIU%2Bu%2FDEOjfsD3Ijyw0; optimizelySegments=%7B%222325621325%22%3A%22direct%22%2C%222335711366%22%3A%22gc%22%2C%222372151524%22%3A%22none%22%2C%222375811128%22%3A%22false%22%7D; optimizelyEndUserId=oeu1431468438774r0.381622509798035; optimizelyBuckets=%7B%7D; gauuid=7b267b66-bc37-42b6-bba8-e848b5a3e34c; _dc_gtm_UA-111455-1=1; _dc_gtm_UA-111455-21=1; lgn_trk=%7B%22page%22%3A%22%2Flogin%2Fv2%2Fplatform%22%2C%22action%22%3A%22login%22%2C%22provider%22%3A%22telerik%22%7D; brdg=59rK/WM1rG0AZ6MiSfF49/KeyII664yZaor3BdRm5foyLREgF5q9eQ68gea3oU6AEqnFtEW+ujhGbLE6SwNfvnsD4SMfDZFQ4tBUfaDeoaSTkiK4M8ddImil3KZ0hGx7M5hKUaEzYArET+5yyRPHp7LonA/1WV3A4is9kinKDn+gBSWiItKwIhvUeOviTk1sU08YeqwX3lJm88NSCGIHQ70EEAEe4TVdcfB74M9cHBJbJ+qJXiF7/Ci4X9mLOIbPb3vZXttXjyVDGYOK982NFg==; tlrkappshell=%2BElWcz4yOcX7Bt9BH8olZ%2B8%2ByqBu0NyY2uxGcKkAehJtIiCHgUm08R0xm25j6T7gBU%2BW%2FWQhzgC3KW%2FuoN8K0he8mD6Q%2BGlgI81nYBxfvi8Uw0AdiX2Aw5vefKK%2Bbw1qFwaSVG%2FGvCKpJ8d7dUR9Vw%3D%3D; tlrk=%2BElWcz4yOcX7Bt9BH8olZ%2B8%2ByqBu0NyY2uxGcKkAehJtIiCHgUm08R0xm25j6T7gBU%2BW%2FWQhzgC3KW%2FuoN8K0he8mD6Q%2BGlgI81nYBxfvi8Uw0AdiX2Aw5vefKK%2Bbw1qFwaSVG%2FGvCKpJ8d7dUR9Vw%3D%3D; __eqtSession=b6833b26-436d-44a9-8b6e-da365828cf4e.1431468450824; _mkto_trk=id:194-TGP-611&token:_mch-telerik.com-1431468438835-83539; __eqtUser=194a207d-2136-4bc5-ab89-204c66463fa0.1; _ga=GA1.3.1466765885.1431468439; _ga=GA1.2.1466765885.1431468439; platform_usercontext=%7B%22userId%22%3A%22bb8a54d3-0aa9-4c66-8720-8081f5780489%22%2C%22accountId%22%3A%226d8f4ce0-17ff-46c0-86a9-20ef185aa630%22%7D\"},\"method\":\"get\"} \r\n\r\n\r\n failed with code 400 \r\n\r\n. Response was: <html>\r\n<head><title>400 Bad Request</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>400 Bad Request</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n","timestamp":"2015-05-12T22:07:53.220Z"}
+{"processId":29953,"message":"","status":503,"stackTrace":null,"metadata":{},"level":"error","timestamp":"2015-05-12T22:07:53.221Z"}
+{"level":"warn","message":"failed to get project 9f6b2a1c-5f1f-42b5-bb5f-03447cbd7177: Service Unavailable","timestamp":"2015-05-12T22:07:53.221Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a6/d8f4ce017ff/AB1/bb8a54d30aa9/AB1","timestamp":"2015-05-12T22:07:53.361Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:07:53.361Z"}
+{"level":"debug","message":"Share is: a6","timestamp":"2015-05-12T22:07:53.361Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a6/d8f4ce017ff/AB1/bb8a54d30aa9/AB1","timestamp":"2015-05-12T22:07:53.362Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:07:53.372Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a6/d8f4ce017ff/AB2/bb8a54d30aa9/AB2","timestamp":"2015-05-12T22:07:53.515Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:07:53.516Z"}
+{"level":"debug","message":"Share is: a6","timestamp":"2015-05-12T22:07:53.516Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a6/d8f4ce017ff/AB2/bb8a54d30aa9/AB2","timestamp":"2015-05-12T22:07:53.516Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:07:53.521Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a6/d8f4ce017ff/AB3/bb8a54d30aa9/AB3","timestamp":"2015-05-12T22:07:53.658Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:07:53.658Z"}
+{"level":"debug","message":"Share is: a6","timestamp":"2015-05-12T22:07:53.659Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a6/d8f4ce017ff/AB3/bb8a54d30aa9/AB3","timestamp":"2015-05-12T22:07:53.659Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:07:53.663Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a6/d8f4ce017ff/AB4/bb8a54d30aa9/AB4","timestamp":"2015-05-12T22:07:53.803Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:07:53.804Z"}
+{"level":"debug","message":"Share is: a6","timestamp":"2015-05-12T22:07:53.804Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a6/d8f4ce017ff/AB4/bb8a54d30aa9/AB4","timestamp":"2015-05-12T22:07:53.804Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:07:53.808Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a6/d8f4ce017ff/AB5/bb8a54d30aa9/AB5","timestamp":"2015-05-12T22:07:53.941Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:07:53.942Z"}
+{"level":"debug","message":"Share is: a6","timestamp":"2015-05-12T22:07:53.942Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a6/d8f4ce017ff/AB5/bb8a54d30aa9/AB5","timestamp":"2015-05-12T22:07:53.942Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:07:53.946Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a6/d8f4ce017ff/AB6/bb8a54d30aa9/AB6","timestamp":"2015-05-12T22:07:54.079Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:07:54.079Z"}
+{"level":"debug","message":"Share is: a6","timestamp":"2015-05-12T22:07:54.079Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a6/d8f4ce017ff/AB6/bb8a54d30aa9/AB6","timestamp":"2015-05-12T22:07:54.079Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:07:54.083Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a6/d8f4ce017ff/AB7/bb8a54d30aa9/AB7","timestamp":"2015-05-12T22:07:54.222Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:07:54.223Z"}
+{"level":"debug","message":"Share is: a6","timestamp":"2015-05-12T22:07:54.223Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a6/d8f4ce017ff/AB7/bb8a54d30aa9/AB7","timestamp":"2015-05-12T22:07:54.223Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:07:54.226Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a6/d8f4ce017ff/AB8/bb8a54d30aa9/AB8","timestamp":"2015-05-12T22:07:54.371Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:07:54.371Z"}
+{"level":"debug","message":"Share is: a6","timestamp":"2015-05-12T22:07:54.371Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a6/d8f4ce017ff/AB8/bb8a54d30aa9/AB8","timestamp":"2015-05-12T22:07:54.372Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:07:54.381Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a6/d8f4ce017ff/AB9/bb8a54d30aa9/AB9","timestamp":"2015-05-12T22:07:54.515Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:07:54.516Z"}
+{"level":"debug","message":"Share is: a6","timestamp":"2015-05-12T22:07:54.516Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a6/d8f4ce017ff/AB9/bb8a54d30aa9/AB9","timestamp":"2015-05-12T22:07:54.516Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:07:54.522Z"}
+{"level":"info","message":"POST /screenbuilder/api/compatible/ 200 1503.259 ms - 879\n","timestamp":"2015-05-12T22:07:54.525Z"}
+{"level":"warn","message":"Request: {\"protocol\":\"https:\",\"slashes\":true,\"auth\":null,\"host\":\"platform.telerik.com\",\"port\":null,\"hostname\":\"platform.telerik.com\",\"hash\":null,\"search\":null,\"query\":null,\"pathname\":\"/appbuilder/api/internal/projects/AppBuilder/%s/path\",\"path\":\"/appbuilder/api/internal/projects/AppBuilder/%s/path\",\"href\":\"https://platform.telerik.com/appbuilder/api/internal/projects/AppBuilder/%s/path\",\"headers\":{\"x-icenium-solutionspace\":\"6d8f4ce0-17ff-46c0-86a9-20ef185aa630\",\"Content-Type\":\"application/json\",\"cookie\":\"state=djp4qSSNZB0C8vxo%2F4FZ8ofr5dUphQVIBQ4wKOAvzhFCAzP852d6Py8BFkoAc3if2QtqSH2HX8P5RUF8NJa2DY8Kf9N3T1w8QiYwGfGUIGlfgrcPffHz4%2BHP7mPlolyBpEwHot%2BJsaxI6FupMlUHvu%2BbsMEefRKnkAt1euUspGB%2BSldOv%2BZLBshT3bZ2GqVq; optimizelySegments=%7B%222325621325%22%3A%22direct%22%2C%222335711366%22%3A%22gc%22%2C%222372151524%22%3A%22none%22%2C%222375811128%22%3A%22false%22%7D; optimizelyEndUserId=oeu1431468488938r0.7119916616939008; optimizelyBuckets=%7B%7D; gauuid=a274c006-86dc-4a0d-ba5d-5d324d2d09f2; _dc_gtm_UA-111455-1=1; _dc_gtm_UA-111455-21=1; optimizelyPendingLogEvents=%5B%5D; lgn_trk=%7B%22page%22%3A%22%2Flogin%2Fv2%2Fplatform%22%2C%22action%22%3A%22login%22%2C%22provider%22%3A%22telerik%22%7D; brdg=59rK/WM1rG0AZ6MiSfF49/KeyII664yZaor3BdRm5foyLREgF5q9eQ68gea3oU6AEqnFtEW+ujhGbLE6SwNfvnsD4SMfDZFQ4tBUfaDeoaSTkiK4M8ddImil3KZ0hGx7M5hKUaEzYArET+5yyRPHp7LonA/1WV3A4is9kinKDn+gBSWiItKwIhvUeOviTk1sU08YeqwX3lJm88NSCGIHQ70EEAEe4TVdcfB74M9cHBKa+iCALWjQviTffigY7T10mkRoefCYvwebPihyee0Adw==; tlrkappshell=XaCIhoGdZwmSfm8C%2FQ1wlW5od4BAJ%2Bi0pKR4aJ2YRpo4F8YZX%2BslxgUPcLpyoUCMJrFh8rNM1IXnLcH05EjLuw40x18LPZugJvcFm8cStTeYfXqr%2FyEwtjDRET4DDTYXgxKy%2BUiGXhfYdavuXQlCuQ%3D%3D; tlrk=XaCIhoGdZwmSfm8C%2FQ1wlW5od4BAJ%2Bi0pKR4aJ2YRpo4F8YZX%2BslxgUPcLpyoUCMJrFh8rNM1IXnLcH05EjLuw40x18LPZugJvcFm8cStTeYfXqr%2FyEwtjDRET4DDTYXgxKy%2BUiGXhfYdavuXQlCuQ%3D%3D; _mkto_trk=id:194-TGP-611&token:_mch-telerik.com-1431468489026-44166; __eqtSession=489b37c0-196d-4d8a-9ca8-8075d92c3027.1431468500989; __eqtUser=a74bc2ed-5154-4243-bb9d-3bfa791f3748.1; _ga=GA1.3.1893282079.1431468489; _ga=GA1.2.1893282079.1431468489; platform_usercontext=%7B%22userId%22%3A%22bb8a54d3-0aa9-4c66-8720-8081f5780489%22%2C%22accountId%22%3A%226d8f4ce0-17ff-46c0-86a9-20ef185aa630%22%7D\"},\"method\":\"get\"} \r\n\r\n\r\n failed with code 400 \r\n\r\n. Response was: <html>\r\n<head><title>400 Bad Request</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>400 Bad Request</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n","timestamp":"2015-05-12T22:08:25.720Z"}
+{"processId":29953,"message":"","status":503,"stackTrace":null,"metadata":{},"level":"error","timestamp":"2015-05-12T22:08:25.720Z"}
+{"level":"warn","message":"failed to get project 9f6b2a1c-5f1f-42b5-bb5f-03447cbd7177: Service Unavailable","timestamp":"2015-05-12T22:08:25.720Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a6/d8f4ce017ff/AB1/bb8a54d30aa9/AB1","timestamp":"2015-05-12T22:08:25.974Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:08:25.974Z"}
+{"level":"debug","message":"Share is: a6","timestamp":"2015-05-12T22:08:25.975Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a6/d8f4ce017ff/AB1/bb8a54d30aa9/AB1","timestamp":"2015-05-12T22:08:25.975Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:08:25.984Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a6/d8f4ce017ff/AB2/bb8a54d30aa9/AB2","timestamp":"2015-05-12T22:08:26.243Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:08:26.243Z"}
+{"level":"debug","message":"Share is: a6","timestamp":"2015-05-12T22:08:26.243Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a6/d8f4ce017ff/AB2/bb8a54d30aa9/AB2","timestamp":"2015-05-12T22:08:26.243Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:08:26.247Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a6/d8f4ce017ff/AB3/bb8a54d30aa9/AB3","timestamp":"2015-05-12T22:08:26.504Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:08:26.504Z"}
+{"level":"debug","message":"Share is: a6","timestamp":"2015-05-12T22:08:26.505Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a6/d8f4ce017ff/AB3/bb8a54d30aa9/AB3","timestamp":"2015-05-12T22:08:26.505Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:08:26.509Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a6/d8f4ce017ff/AB4/bb8a54d30aa9/AB4","timestamp":"2015-05-12T22:08:26.776Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:08:26.777Z"}
+{"level":"debug","message":"Share is: a6","timestamp":"2015-05-12T22:08:26.777Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a6/d8f4ce017ff/AB4/bb8a54d30aa9/AB4","timestamp":"2015-05-12T22:08:26.777Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:08:26.782Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a6/d8f4ce017ff/AB5/bb8a54d30aa9/AB5","timestamp":"2015-05-12T22:08:27.059Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:08:27.059Z"}
+{"level":"debug","message":"Share is: a6","timestamp":"2015-05-12T22:08:27.059Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a6/d8f4ce017ff/AB5/bb8a54d30aa9/AB5","timestamp":"2015-05-12T22:08:27.059Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:08:27.064Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a6/d8f4ce017ff/AB6/bb8a54d30aa9/AB6","timestamp":"2015-05-12T22:08:27.326Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:08:27.326Z"}
+{"level":"debug","message":"Share is: a6","timestamp":"2015-05-12T22:08:27.326Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a6/d8f4ce017ff/AB6/bb8a54d30aa9/AB6","timestamp":"2015-05-12T22:08:27.327Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:08:27.332Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a6/d8f4ce017ff/AB7/bb8a54d30aa9/AB7","timestamp":"2015-05-12T22:08:27.588Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:08:27.588Z"}
+{"level":"debug","message":"Share is: a6","timestamp":"2015-05-12T22:08:27.588Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a6/d8f4ce017ff/AB7/bb8a54d30aa9/AB7","timestamp":"2015-05-12T22:08:27.588Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:08:27.597Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a6/d8f4ce017ff/AB8/bb8a54d30aa9/AB8","timestamp":"2015-05-12T22:08:27.864Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:08:27.864Z"}
+{"level":"debug","message":"Share is: a6","timestamp":"2015-05-12T22:08:27.864Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a6/d8f4ce017ff/AB8/bb8a54d30aa9/AB8","timestamp":"2015-05-12T22:08:27.864Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:08:27.869Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a6/d8f4ce017ff/AB9/bb8a54d30aa9/AB9","timestamp":"2015-05-12T22:08:28.135Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:08:28.135Z"}
+{"level":"debug","message":"Share is: a6","timestamp":"2015-05-12T22:08:28.136Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a6/d8f4ce017ff/AB9/bb8a54d30aa9/AB9","timestamp":"2015-05-12T22:08:28.136Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:08:28.142Z"}
+{"level":"info","message":"POST /screenbuilder/api/compatible/ 200 3353.817 ms - 879\n","timestamp":"2015-05-12T22:08:28.146Z"}
+{"level":"info","message":"GET /screenbuilder/project/4bce4bfe-1e75-4a5c-ab55-3d78cc80b578/views 200 2.132 ms - 12281\n","timestamp":"2015-05-12T22:09:05.753Z"}
+{"level":"info","message":"GET /screenbuilder/api/simulator/url/Tim%20Native/Tim%20Native 304 31.861 ms - -\n","timestamp":"2015-05-12T22:09:07.821Z"}
+{"level":"info","message":"GET /screenbuilder/Mist/MobileSimulator/WRqJ_2bcqe52s-N3WiuQ10974eKSXCelHnrQAbtUIQMOI3xUkYTR0MLMs0F81IM4rd3HJfq6nPLRvucOdKn8Z1QmfvzjYxgUXWOMElTl-7IG7r_F9iscGS5IUMXJWi7p/iOS_Phone/MobileWebsite/bower_components/kendo-ui-appbuilder-core/styles/kendo.mobile.all.min.css 304 13.849 ms - -\n","timestamp":"2015-05-12T22:09:08.752Z"}
+{"level":"info","message":"GET /screenbuilder/Mist/MobileSimulator/WRqJ_2bcqe52s-N3WiuQ10974eKSXCelHnrQAbtUIQMOI3xUkYTR0MLMs0F81IM4rd3HJfq6nPLRvucOdKn8Z1QmfvzjYxgUXWOMElTl-7IG7r_F9iscGS5IUMXJWi7p/iOS_Phone/MobileWebsite/bower_components/everlive/min/everlive.all.min.js 304 13.074 ms - -\n","timestamp":"2015-05-12T22:09:08.753Z"}
+{"level":"info","message":"GET /screenbuilder/Mist/MobileSimulator/WRqJ_2bcqe52s-N3WiuQ10974eKSXCelHnrQAbtUIQMOI3xUkYTR0MLMs0F81IM4rd3HJfq6nPLRvucOdKn8Z1QmfvzjYxgUXWOMElTl-7IG7r_F9iscGS5IUMXJWi7p/iOS_Phone/MobileWebsite/bower_components/kendo-ui-appbuilder-core/js/jquery.min.js 304 13.012 ms - -\n","timestamp":"2015-05-12T22:09:08.753Z"}
+{"level":"info","message":"GET /screenbuilder/Mist/MobileSimulator/WRqJ_2bcqe52s-N3WiuQ10974eKSXCelHnrQAbtUIQMOI3xUkYTR0MLMs0F81IM4rd3HJfq6nPLRvucOdKn8Z1QmfvzjYxgUXWOMElTl-7IG7r_F9iscGS5IUMXJWi7p/iOS_Phone/MobileWebsite/data/defaultProvider.js 304 4.068 ms - -\n","timestamp":"2015-05-12T22:09:08.778Z"}
+{"level":"info","message":"GET /screenbuilder/Mist/MobileSimulator/WRqJ_2bcqe52s-N3WiuQ10974eKSXCelHnrQAbtUIQMOI3xUkYTR0MLMs0F81IM4rd3HJfq6nPLRvucOdKn8Z1QmfvzjYxgUXWOMElTl-7IG7r_F9iscGS5IUMXJWi7p/iOS_Phone/MobileWebsite/bower_components/kendo-ui-appbuilder-core/styles/images/kendoui.woff?v=1.1 304 3.522 ms - -\n","timestamp":"2015-05-12T22:09:08.904Z"}
+{"level":"info","message":"GET /screenbuilder/project/855a0eff-bb0e-4192-afc5-afebd694ee44/views 200 2.031 ms - 12281\n","timestamp":"2015-05-12T22:09:10.540Z"}
+{"level":"info","message":"GET /screenbuilder/api/simulator/url/CitasMantenimiento%20Hybrid/CitasMantenimiento%20Hybrid 304 31.622 ms - -\n","timestamp":"2015-05-12T22:09:13.491Z"}
+{"level":"warn","message":"Request: {\"protocol\":\"https:\",\"slashes\":true,\"auth\":null,\"host\":\"platform.telerik.com\",\"port\":null,\"hostname\":\"platform.telerik.com\",\"hash\":null,\"search\":null,\"query\":null,\"pathname\":\"/appbuilder/api/internal/projects/AppBuilder/%s/path\",\"path\":\"/appbuilder/api/internal/projects/AppBuilder/%s/path\",\"href\":\"https://platform.telerik.com/appbuilder/api/internal/projects/AppBuilder/%s/path\",\"headers\":{\"x-icenium-solutionspace\":\"6d8f4ce0-17ff-46c0-86a9-20ef185aa630\",\"Content-Type\":\"application/json\",\"cookie\":\"state=XbXXnPFOToWHk3iSG3NPXv8dhAOfp3Or0yupp9huQ62%2FHGg8M7Hsx%2BlV0sk6HFMwkx8FWBNfLI1LOcHEpyJTbKAy7Onu7yWzaVt2j2z5nFmyEvA3WLhw63OW3T%2FE6kYYoXRDwrIWzo3jsVBiZnPX4HilRsG7ZZwrasTq%2F9ydwwZjz3CJn%2Bv%2BDmKLhCtBAXHb; optimizelySegments=%7B%222325621325%22%3A%22direct%22%2C%222335711366%22%3A%22gc%22%2C%222372151524%22%3A%22none%22%2C%222375811128%22%3A%22false%22%7D; optimizelyEndUserId=oeu1431468539437r0.32977814320474863; optimizelyBuckets=%7B%7D; gauuid=c6fdc0b2-dca4-423b-8913-0a3b05db3b96; _dc_gtm_UA-111455-1=1; _dc_gtm_UA-111455-21=1; optimizelyPendingLogEvents=%5B%5D; lgn_trk=%7B%22page%22%3A%22%2Flogin%2Fv2%2Fplatform%22%2C%22action%22%3A%22login%22%2C%22provider%22%3A%22telerik%22%7D; brdg=59rK/WM1rG0AZ6MiSfF49/KeyII664yZaor3BdRm5foyLREgF5q9eQ68gea3oU6AEqnFtEW+ujhGbLE6SwNfvnsD4SMfDZFQ4tBUfaDeoaSTkiK4M8ddImil3KZ0hGx7M5hKUaEzYArET+5yyRPHp7LonA/1WV3A4is9kinKDn+gBSWiItKwIhvUeOviTk1sU08YeqwX3lJm88NSCGIHQ70EEAEe4TVdcfB74M9cHBLyUhdJYu0S2GVstqAUS4VXI3h5Paq20zsOqWVDo96fXQ==; tlrkappshell=CXKutA9XPGRe9rwgr2N8%2Bx6u50y3KKih5GwI8T9gn1ovGGK15IdrIBtwW6uMcCjqVAAiSKjm2IUz2o6rIH%2Bf6xM9LaSQkx0IWjmZzKdGudjDNCeFksx7SJse4DaolAqVYlcu%2BNWrFkbMJ%2B4M9ebtxQ%3D%3D; tlrk=CXKutA9XPGRe9rwgr2N8%2Bx6u50y3KKih5GwI8T9gn1ovGGK15IdrIBtwW6uMcCjqVAAiSKjm2IUz2o6rIH%2Bf6xM9LaSQkx0IWjmZzKdGudjDNCeFksx7SJse4DaolAqVYlcu%2BNWrFkbMJ%2B4M9ebtxQ%3D%3D; _mkto_trk=id:194-TGP-611&token:_mch-telerik.com-1431468539569-85947; __eqtSession=5424e3d0-f236-48c3-953f-3c008c4b7b99.1431468551240; __eqtUser=f04f7389-80c4-49e3-8692-1949c89acbb8.1; _ga=GA1.3.2142289585.1431468540; _ga=GA1.2.2142289585.1431468540; platform_usercontext=%7B%22userId%22%3A%22bb8a54d3-0aa9-4c66-8720-8081f5780489%22%2C%22accountId%22%3A%226d8f4ce0-17ff-46c0-86a9-20ef185aa630%22%7D\"},\"method\":\"get\"} \r\n\r\n\r\n failed with code 400 \r\n\r\n. Response was: <html>\r\n<head><title>400 Bad Request</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>400 Bad Request</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n","timestamp":"2015-05-12T22:09:16.374Z"}
+{"processId":29953,"message":"","status":503,"stackTrace":null,"metadata":{},"level":"error","timestamp":"2015-05-12T22:09:16.374Z"}
+{"level":"warn","message":"failed to get project 9f6b2a1c-5f1f-42b5-bb5f-03447cbd7177: Service Unavailable","timestamp":"2015-05-12T22:09:16.375Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a6/d8f4ce017ff/AB1/bb8a54d30aa9/AB1","timestamp":"2015-05-12T22:09:16.551Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:09:16.552Z"}
+{"level":"debug","message":"Share is: a6","timestamp":"2015-05-12T22:09:16.552Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a6/d8f4ce017ff/AB1/bb8a54d30aa9/AB1","timestamp":"2015-05-12T22:09:16.552Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:09:16.563Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a6/d8f4ce017ff/AB2/bb8a54d30aa9/AB2","timestamp":"2015-05-12T22:09:16.737Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:09:16.737Z"}
+{"level":"debug","message":"Share is: a6","timestamp":"2015-05-12T22:09:16.737Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a6/d8f4ce017ff/AB2/bb8a54d30aa9/AB2","timestamp":"2015-05-12T22:09:16.738Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:09:16.743Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a6/d8f4ce017ff/AB3/bb8a54d30aa9/AB3","timestamp":"2015-05-12T22:09:16.905Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:09:16.906Z"}
+{"level":"debug","message":"Share is: a6","timestamp":"2015-05-12T22:09:16.906Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a6/d8f4ce017ff/AB3/bb8a54d30aa9/AB3","timestamp":"2015-05-12T22:09:16.906Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:09:16.910Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a6/d8f4ce017ff/AB4/bb8a54d30aa9/AB4","timestamp":"2015-05-12T22:09:17.067Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:09:17.067Z"}
+{"level":"debug","message":"Share is: a6","timestamp":"2015-05-12T22:09:17.068Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a6/d8f4ce017ff/AB4/bb8a54d30aa9/AB4","timestamp":"2015-05-12T22:09:17.068Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:09:17.072Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a6/d8f4ce017ff/AB5/bb8a54d30aa9/AB5","timestamp":"2015-05-12T22:09:17.224Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:09:17.225Z"}
+{"level":"debug","message":"Share is: a6","timestamp":"2015-05-12T22:09:17.225Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a6/d8f4ce017ff/AB5/bb8a54d30aa9/AB5","timestamp":"2015-05-12T22:09:17.225Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:09:17.232Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a6/d8f4ce017ff/AB6/bb8a54d30aa9/AB6","timestamp":"2015-05-12T22:09:17.394Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:09:17.395Z"}
+{"level":"debug","message":"Share is: a6","timestamp":"2015-05-12T22:09:17.395Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a6/d8f4ce017ff/AB6/bb8a54d30aa9/AB6","timestamp":"2015-05-12T22:09:17.395Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:09:17.399Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a6/d8f4ce017ff/AB7/bb8a54d30aa9/AB7","timestamp":"2015-05-12T22:09:17.560Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:09:17.561Z"}
+{"level":"debug","message":"Share is: a6","timestamp":"2015-05-12T22:09:17.561Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a6/d8f4ce017ff/AB7/bb8a54d30aa9/AB7","timestamp":"2015-05-12T22:09:17.561Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:09:17.572Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a6/d8f4ce017ff/AB8/bb8a54d30aa9/AB8","timestamp":"2015-05-12T22:09:17.721Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:09:17.721Z"}
+{"level":"debug","message":"Share is: a6","timestamp":"2015-05-12T22:09:17.721Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a6/d8f4ce017ff/AB8/bb8a54d30aa9/AB8","timestamp":"2015-05-12T22:09:17.721Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:09:17.729Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a6/d8f4ce017ff/AB9/bb8a54d30aa9/AB9","timestamp":"2015-05-12T22:09:17.882Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:09:17.883Z"}
+{"level":"debug","message":"Share is: a6","timestamp":"2015-05-12T22:09:17.883Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a6/d8f4ce017ff/AB9/bb8a54d30aa9/AB9","timestamp":"2015-05-12T22:09:17.883Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:09:17.889Z"}
+{"level":"info","message":"POST /screenbuilder/api/compatible/ 200 2342.099 ms - 879\n","timestamp":"2015-05-12T22:09:17.892Z"}
+{"level":"debug","message":"Project path is: //ab-storage/a0/af2f31679ee/Parkarr Code/23897323c675/Parkarr Code","timestamp":"2015-05-12T22:09:50.176Z"}
+{"level":"debug","message":"Server is: ab-storage","timestamp":"2015-05-12T22:09:50.177Z"}
+{"level":"debug","message":"Share is: a0","timestamp":"2015-05-12T22:09:50.177Z"}
+{"level":"debug","message":"Mounted path is: /abstorage/ab-storage/a0/af2f31679ee/Parkarr Code/23897323c675/Parkarr Code","timestamp":"2015-05-12T22:09:50.177Z"}
+{"level":"debug","message":"...already mounted","timestamp":"2015-05-12T22:09:50.184Z"}
+{"level":"info","message":"POST /screenbuilder/api/compatible/ 200 582.705 ms - 86\n","timestamp":"2015-05-12T22:09:50.187Z"}
