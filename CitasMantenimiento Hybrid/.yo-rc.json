@@ -10,10 +10,7 @@
       "./citas",
       "./reservas",
       "./notificaciones",
-      "./historial",
-      "./dataListView",
-      "./registerView",
-      "./signInView"
+      "./historial"
     ]
   }
 }
