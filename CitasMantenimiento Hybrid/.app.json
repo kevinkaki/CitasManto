@@ -138,7 +138,7 @@
     {
       "type": "view",
       "name": "reservas",
-      "title": "Reservas",
+      "title": "Detalle de Reserva",
       "addToNavigation": true,
       "components": [
         {
