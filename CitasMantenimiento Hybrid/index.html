@@ -16,6 +16,21 @@
     <script src="app.js"></script>
     <script src="data/defaultProvider.js"></script>
     <script src="data/citasMantenimientoBackend.js"></script>
+    <script src="https://bs-static.cdn.telerik.com/1.3.1/everlive.all.min.js"></script>
+
+    <!--
+    <script type="text/javascript" charset="utf-8">
+
+    document.addEventListener("deviceready", function() {
+    var everlive = new Everlive({
+        apiKey: "your-api-key-here",
+        scheme: "https"
+    	});
+	});
+
+    </script>
+	-->
+
 </head>
 
 <body id="kendoUiMobileApp">
@@ -55,12 +70,18 @@
             </li>
             <li><a href="historial/view.html" data-icon="favorites">Historial</a>
             </li>
+            <li><a href="registerView/view.html" data-icon="edit">Register</a>
+            </li>
+            <li><a href="signInView/view.html" data-icon="contacts">Sign In</a>
+            </li>
         </ul>
     </div>
     <script src="home/index.js"></script>
     <script src="citas/index.js"></script>
     <script src="notificaciones/index.js"></script>
     <script src="historial/index.js"></script>
+    <script src="registerView/index.js"></script>
+    <script src="signInView/index.js"></script>
 </body>
 
 </html>

@@ -62,12 +62,12 @@
         {
           "type": "list",
           "name": "notificacionesModel",
-          "dataProvider": "defaultProvider",
+          "dataProvider": "citasMantenimientoBackend",
           "masterDetails": false,
           "pullToRefresh": false,
           "endlessScroll": false,
-          "collection": "Comments",
-          "headerField": "UserId"
+          "collection": "Usuarios",
+          "headerField": "Apellido"
         }
       ],
       "icon": "sounds"
@@ -90,6 +90,50 @@
         }
       ],
       "icon": "favorites"
+    },
+    {
+      "type": "view",
+      "name": "registerView",
+      "title": "Register",
+      "addToNavigation": true,
+      "components": [
+        {
+          "type": "signup",
+          "name": "registerViewModel",
+          "dataProvider": "citasMantenimientoBackend",
+          "emailLabel": "Email",
+          "usernameLabel": "Name",
+          "passwordLabel": "Password",
+          "registerLabel": "Register",
+          "registerRedirect": "home",
+          "navigateToSignin": false,
+          "emailPlaceholder": "",
+          "usernamePlaceholder": "",
+          "passwordPlaceholder": ""
+        }
+      ],
+      "icon": "edit"
+    },
+    {
+      "type": "view",
+      "name": "signInView",
+      "title": "Sign In",
+      "addToNavigation": true,
+      "components": [
+        {
+          "type": "signin",
+          "name": "signInViewModel",
+          "dataProvider": "citasMantenimientoBackend",
+          "usernameLabel": "Username",
+          "passwordLabel": "Password",
+          "confirmLabel": "Sign In",
+          "signinRedirect": "home",
+          "navigateToSignup": false,
+          "usernamePlaceholder": "",
+          "passwordPlaceholder": ""
+        }
+      ],
+      "icon": "contacts"
     }
   ],
   "view": "home",

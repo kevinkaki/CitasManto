@@ -9,7 +9,9 @@
       "./citas",
       "./notificaciones",
       "./data/citasMantenimientoBackend.js",
-      "./historial"
+      "./historial",
+      "./registerView",
+      "./signInView"
     ]
   }
 }
