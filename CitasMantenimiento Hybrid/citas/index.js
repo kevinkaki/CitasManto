@@ -11,12 +11,8 @@ app.citas = kendo.observable({
             placa: '',
             date: '',
         },
-        submit: function() {
-            
-        },
-        cancel: function() {
-            
-        }
+        submit: function() {},
+        cancel: function() {}
     });
 
     parent.set('citasModel', citasModel);
