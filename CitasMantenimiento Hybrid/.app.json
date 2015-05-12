@@ -148,6 +148,7 @@
           "masterDetails": false,
           "pullToRefresh": false,
           "endlessScroll": false,
+          "iconField": false,
           "collection": "Reservas",
           "headerField": "Usuario"
         }
