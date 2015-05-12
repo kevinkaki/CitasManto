@@ -50,11 +50,6 @@ app.citas = kendo.observable({
             date: '',
         },
         submit: function() {
-            var attrs = {
-                	Sucursal: citasModel.sucursal,
-                	Kms: citasModel.kms,
-                	Placa: citasModel.placa,
-                	Date: citasModel.date,
                 
             app.mobileApp.navigate('home/view.html');
         },
