@@ -8,14 +8,14 @@ app.historial = kendo.observable({
     var dataSource = new kendo.data.DataSource({
         type: 'everlive',
         transport: {
-            typeName: 'Usuarios',
+            typeName: 'Historial',
             dataProvider: dataProvider
         },
         schema: {
             model: {
                 fields: {
-                    Apellido: {
-                        field: 'Apellido',
+                    Usuario: {
+                        field: 'Usuario',
                         defaultValue: ''
                     },
                 }

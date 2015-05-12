@@ -124,8 +124,8 @@
           "masterDetails": false,
           "pullToRefresh": false,
           "endlessScroll": false,
-          "collection": "Usuarios",
-          "headerField": "Apellido"
+          "collection": "Historial",
+          "headerField": "Usuario"
         }
       ],
       "icon": "favorites"

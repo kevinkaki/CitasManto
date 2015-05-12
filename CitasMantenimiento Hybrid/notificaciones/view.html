@@ -2,9 +2,14 @@
 
     <ul data-role="listview" data-style="inset" data-template="notificacionesModelTemplate" data-bind="{ source: notificacionesModel.dataSource}" data-pull-to-refresh="false" data-endless-scroll="false">
     </ul>
-    <script type="text/x-kendo-template" id="notificacionesModelTemplate">
-        <div class="image-with-text">
-            <h3>#: data.Mensaje #</h3>
-        </div>
+    <script type="text/x-kendo-template" id="notificacionesModelTemplate">      
+        <ul data-role="listview" data-style="inset">
+                <li>
+                    <label>
+                    	<h5>#: data.Fecha #</h5>
+                        <h3>#: data.Mensaje #</h3>
+                    </label>
+                </li>         
+            </ul>
     </script>
 </div>
