@@ -90,7 +90,7 @@
           "headerField": "Usuario"
         }
       ],
-      "icon": "settings"
+      "icon": "edit"
     },
     {
       "type": "view",
