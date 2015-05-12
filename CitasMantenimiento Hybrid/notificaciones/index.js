@@ -8,14 +8,14 @@ app.notificaciones = kendo.observable({
     var dataSource = new kendo.data.DataSource({
         type: 'everlive',
         transport: {
-            typeName: 'Usuarios',
+            typeName: 'Notificaciones',
             dataProvider: dataProvider
         },
         schema: {
             model: {
                 fields: {
-                    Apellido: {
-                        field: 'Apellido',
+                    Mensaje: {
+                        field: 'Mensaje',
                         defaultValue: ''
                     },
                 }

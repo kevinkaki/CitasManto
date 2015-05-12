@@ -1,11 +1,31 @@
 <div data-role="view" data-title="Detalle de Reserva" data-layout="main" data-model="app.reservas" data-show="app.reservas.onShow">
-
     <ul data-role="listview" data-style="inset" data-template="reservasModelTemplate" data-bind="{ source: reservasModel.dataSource}" data-pull-to-refresh="false" data-endless-scroll="false">
     </ul>
     <script type="text/x-kendo-template" id="reservasModelTemplate">
         <div class="image-with-text">
-            <h3>#: data.Usuario #</h3>
-
+        	<label>Usuario
+            	<h3>#: data.Usuario #</h3>
+            </label>
+        </div>
+		<div class="image-with-text">
+        	<label>Fecha
+            	<h3>#: data.FechaCita #</h3>
+            </label>
+        </div>
+        <div class="image-with-text">
+        	<label>Sucusal
+            	<h3>#: data.Sucursal #</h3>
+            </label>
+        </div>
+        <div class="image-with-text">
+        	<label>Placa
+            	<h3>#: data.Placa #</h3>
+            </label>
+        </div>
+        <div class="image-with-text">
+        	<label>Kilometraje
+            	<h3>#: data.Kilometraje #</h3>
+            </label>
         </div>
     </script>
 </div>

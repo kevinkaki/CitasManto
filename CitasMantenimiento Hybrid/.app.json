@@ -66,8 +66,8 @@
           "masterDetails": false,
           "pullToRefresh": false,
           "endlessScroll": false,
-          "collection": "Usuarios",
-          "headerField": "Apellido"
+          "collection": "Notificaciones",
+          "headerField": "Mensaje"
         }
       ],
       "icon": "sounds"
