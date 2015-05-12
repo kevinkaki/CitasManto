@@ -8,11 +8,9 @@
       "./data/citasMantenimientoBackend.js",
       "./home",
       "./citas",
+      "./reservas",
       "./notificaciones",
-      "./historial",
-      "./registerView",
-      "./signInView",
-      "./reservas"
+      "./historial"
     ]
   }
 }
