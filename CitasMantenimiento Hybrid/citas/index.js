@@ -4,8 +4,8 @@ app.citas = kendo.observable({
     onShow: function() {}
 });
 (function(parent) {
-    var provider = app.data.citasMantenimientoBackend,
-      /*  
+    /* var provider = app.data.citasMantenimientoBackend,
+       
         signupSuccess =
         function(data) {
             app.user = data.result;
